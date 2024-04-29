@@ -1,132 +1,37 @@
-[
-    {
-        "resourceId": "50563395",
-        "price": 1900000,
-        "averageBIN": 1787330
-    },
-    {
-        "resourceId": "50558750",
-        "price": 152000,
-        "averageBIN": 142370
-    },
-    {
-        "resourceId": "67318195",
-        "price": 370000,
-        "averageBIN": 362710
-    },
-    {
-        "resourceId": "50571466",
-        "price": 61500,
-        "averageBIN": 57155
-    },
-    {
-        "resourceId": "50526413",
-        "price": 84000,
-        "averageBIN": 75555
-    },
-    {
-        "resourceId": "67361235",
-        "price": 135000,
-        "averageBIN": 121440
-    },
-    {
-        "resourceId": "67301747",
-        "price": 0,
-        "averageBIN": 27600
-    },
-    {
-        "resourceId": "50490273",
-        "price": 17000,
-        "averageBIN": 16790
-    },
-    {
-        "resourceId": "50573134",
-        "price": 180000,
-        "averageBIN": 163070
-    },
-    {
-        "resourceId": "50549518",
-        "price": 22000,
-        "averageBIN": 20642.5
-    },
-    {
-        "resourceId": "50515359",
-        "price": 20250,
-        "averageBIN": 21677.5
-    },
-    {
-        "resourceId": "67364429",
-        "price": 75000,
-        "averageBIN": 69000
-    },
-    {
-        "resourceId": "50543336",
-        "price": 19750,
-        "averageBIN": 17997.5
-    },
-    {
-        "resourceId": "50598882",
-        "price": 17000,
-        "averageBIN": 17422.5
-    },
-    {
-        "resourceId": "50553282",
-        "price": 13500,
-        "averageBIN": 12765
-    },
-    {
-        "resourceId": "67324305",
-        "price": 19750,
-        "averageBIN": 17767.5
-    },
-    {
-        "resourceId": "50565708",
-        "price": 14250,
-        "averageBIN": 13225
-    },
-    {
-        "resourceId": "50571352",
-        "price": 12250,
-        "averageBIN": 13340
-    },
-    {
-        "resourceId": "[",
-        "price": null,
-        "averageBIN": null
-    },
-    {
-        "resourceId": "    {",
-        "price": null,
-        "averageBIN": null
-    },
-    {
-        "resourceId": "        \"resourceId\"",
-        "price": null,
-        "averageBIN": null
-    },
-    {
-        "resourceId": "        \"price\"",
-        "price": null,
-        "averageBIN": null
-    },
-    {
-        "resourceId": "        \"averageBIN\"",
-        "price": null,
-        "averageBIN": null
-    },
-    {
-        "resourceId": "    },",
-        "price": null,
-        "averageBIN": null
-    },
-    {
-        "resourceId": "    }",
-        "price": null,
-        "averageBIN": null
-    },
-    {
-        "resourceId": "]",
-        "price": null,
-        "averageBIN": null
-    }
-]
+84044103:3780000:3446550
+84051233:302000:283360
+100828449:347000:320620
+100856281:850000:812820
+117687181:720000:702190
+100909965:700000:675510
+84139243:449000:426190
+151195048:710000:651590
+117684324:585000:556140
+134442186:319000:300150
+100864831:639000:600530
+50577450:153000:154330
+67350710:28000:27427.5
+100887528:132000:119600
+100907108:580000:569480
+67336660:27500:26392.5
+84102629:25000:23115
+50572362:23000:21562.5
+84109928:23000:21620
+84113876:28250:25702.5
+67332561:17000:15582.5
+84109777:17000:15352.5
+67357130:188000:169740
+100920487:13000:11960
+84088075:17000:15352.5
+84098218:16500:12995
+67338255:17000:16905
+67310859:16750:15237.5
+67321002:15250:12937.5
+[:NaN:NaN
+    {:NaN:NaN
+        "resourceId":NaN:NaN
+        "price":NaN:NaN
+        "averageBIN":NaN:NaN
+    },:NaN:NaN
+    }:NaN:NaN
+]:NaN:NaN
