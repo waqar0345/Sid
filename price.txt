@@ -1,8 +1,42 @@
-[:NaN:NaN
-    {:NaN:NaN
-        "resourceId":NaN:NaN
-        "price":NaN:NaN
-        "averageBIN":NaN:NaN
-    },:NaN:NaN
-    }:NaN:NaN
-]:NaN:NaN
+[
+    {
+        "resourceId": "[",
+        "price": null,
+        "averageBIN": null
+    },
+    {
+        "resourceId": "    {",
+        "price": null,
+        "averageBIN": null
+    },
+    {
+        "resourceId": "        \"resourceId\"",
+        "price": null,
+        "averageBIN": null
+    },
+    {
+        "resourceId": "        \"price\"",
+        "price": null,
+        "averageBIN": null
+    },
+    {
+        "resourceId": "        \"averageBIN\"",
+        "price": null,
+        "averageBIN": null
+    },
+    {
+        "resourceId": "    },",
+        "price": null,
+        "averageBIN": null
+    },
+    {
+        "resourceId": "    }",
+        "price": null,
+        "averageBIN": null
+    },
+    {
+        "resourceId": "]",
+        "price": null,
+        "averageBIN": null
+    }
+]
