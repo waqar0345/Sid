@@ -1,5 +1,95 @@
 [
     {
+        "resourceId": "50563395",
+        "price": 1900000,
+        "averageBIN": 1787330
+    },
+    {
+        "resourceId": "50558750",
+        "price": 152000,
+        "averageBIN": 142370
+    },
+    {
+        "resourceId": "67318195",
+        "price": 370000,
+        "averageBIN": 362710
+    },
+    {
+        "resourceId": "50571466",
+        "price": 61500,
+        "averageBIN": 57155
+    },
+    {
+        "resourceId": "50526413",
+        "price": 84000,
+        "averageBIN": 75555
+    },
+    {
+        "resourceId": "67361235",
+        "price": 135000,
+        "averageBIN": 121440
+    },
+    {
+        "resourceId": "67301747",
+        "price": 0,
+        "averageBIN": 27600
+    },
+    {
+        "resourceId": "50490273",
+        "price": 17000,
+        "averageBIN": 16790
+    },
+    {
+        "resourceId": "50573134",
+        "price": 180000,
+        "averageBIN": 163070
+    },
+    {
+        "resourceId": "50549518",
+        "price": 22000,
+        "averageBIN": 20642.5
+    },
+    {
+        "resourceId": "50515359",
+        "price": 20250,
+        "averageBIN": 21677.5
+    },
+    {
+        "resourceId": "67364429",
+        "price": 75000,
+        "averageBIN": 69000
+    },
+    {
+        "resourceId": "50543336",
+        "price": 19750,
+        "averageBIN": 17997.5
+    },
+    {
+        "resourceId": "50598882",
+        "price": 17000,
+        "averageBIN": 17422.5
+    },
+    {
+        "resourceId": "50553282",
+        "price": 13500,
+        "averageBIN": 12765
+    },
+    {
+        "resourceId": "67324305",
+        "price": 19750,
+        "averageBIN": 17767.5
+    },
+    {
+        "resourceId": "50565708",
+        "price": 14250,
+        "averageBIN": 13225
+    },
+    {
+        "resourceId": "50571352",
+        "price": 12250,
+        "averageBIN": 13340
+    },
+    {
         "resourceId": "[",
         "price": null,
         "averageBIN": null
